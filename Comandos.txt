@@ -1,0 +1,33 @@
+Criar a Solução
+
+dotnet new sln -O RestWithAsp-Net
+
+Criar o WEB API
+
+dotnet new webapi -o RestWithAsp-Net
+
+Adicionar projecto à solução
+
+dotnet add sln -
+
+trabalho com GIT
+
+git status
+
+git add .gitignore
+
+git add 00_tab
+
+git commit 'Adding gitignore'
+
+git commit 'Scaffold a webapi'
+
+#para adicionar todo projecto
+
+git add .
+
+git commit 'Scaffold a webapi via terminal'
+
+#Para enviar todo projecto..
+
+git push
